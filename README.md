@@ -1,2 +1,2 @@
 the read file
-the sucond line
+the sucond 
